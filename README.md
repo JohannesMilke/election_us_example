@@ -30,7 +30,7 @@ Let's build this USA Election 2020 application with Flutter.
 ##### [YouTube video](https://www.youtube.com/watch?v=m5qMUNrls2M "Youtube Johannes Milke") where the *source code* is explained. [Subscribe YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
 <a href="https://www.youtube.com/watch?v=m5qMUNrls2M&feature=player_embedded
 " target="_blank"><img src="http://img.youtube.com/vi/m5qMUNrls2M/maxresdefault.jpg" 
-alt="Build A "USA Election 2020" Flutter App - Flutter YouTube video" width="480" border="10" /></a>
+alt="Build A USA Election 2020 Flutter App - Flutter YouTube video" width="480" border="10" /></a>
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
 [youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
